@@ -1,0 +1,5 @@
+﻿  A1.cpp
+C:\Users\gurne\Documents\A1 Lucas Gurney\A1 Lucas Gurney\A1.cpp(25,17): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\gurne\Documents\A1 Lucas Gurney\A1 Lucas Gurney\A1.cpp(116,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\gurne\Documents\A1 Lucas Gurney\A1 Lucas Gurney\A1.cpp(128,6): warning C4101: 'agelimit': unreferenced local variable
+  A1 Lucas Gurney.vcxproj -> C:\Users\gurne\Documents\A1 Lucas Gurney\Debug\A1 Lucas Gurney.exe
